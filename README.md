@@ -1,5 +1,6 @@
 # GUAC: Graph for Understanding Artifact Composition
 
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/3060102/204297133-9bf702c6-b4e2-46df-a029-42b5060b19a4.png">
 </p>
